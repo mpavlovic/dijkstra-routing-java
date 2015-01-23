@@ -6,5 +6,5 @@ Simple implementation which emulates packet routing between routers in network, 
 - Dijkstra's shortest path implementation used from http://www.algolist.com/code/java/Dijkstra%27s_algorithm
 
 # Command line execution:
-javac Application.java
+javac Application.java <br>
 java Application
